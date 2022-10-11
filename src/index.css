@@ -61,5 +61,5 @@ html::-webkit-scrollbar-track {
 
 html::-webkit-scrollbar-thumb {
   box-shadow: 0px 0px 0px 100vh var(--color-black);
-  border-radius: 20px;
+  border-radius: 12px;
 }
